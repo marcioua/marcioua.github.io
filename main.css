@@ -1,0 +1,184 @@
+h1,h3,h4 {
+  color: #C0C0C0;
+  font-size: 40px;
+font-family:Zen old Mincho;monospace;
+
+}
+
+
+
+html{
+  font-family: Zen old Mincho monospace;
+  background: url(https://static.vecteezy.com/ti/vecteur-libre/p3/2088448-fond-abstrait-de-luxe-avec-bordure-doree-vectoriel.jpg) no-repeat center;
+  background-size: cover;
+  font-size: 25px;
+  color: #ccac00;
+
+}
+
+#titre1{
+  color: #649b88;
+}
+
+html{
+  font-family: Zen old Mincho;monospace;
+  background-color:#540c41;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+iframe{
+  display:block;
+  margin: 0 auto;
+}
+.liste-web{
+  color: white;
+}
+
+  .list{
+    color: #ccac00;
+    list-style: none;
+
+}
+
+
+.liste-web{
+  color: #ccac00;
+list-style: none;*
+
+}
+
+#IMAGE{
+  border-radius: 5%;
+width: 550px
+}
+
+#video{
+  border-radius: 2%;
+
+}
+
+header{
+
+  padding-left:
+  border: 3px dotted red;
+  margin-bottom: : 250px;
+  text-align: center;
+
+}
+
+.processeur{
+  display: flex;
+  flex-direction:row;
+  flex-wrap: nowrap wrap;
+}
+
+
+.CPU{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: wrap;
+  width: 350px;
+  height:150px;
+}
+
+.description{
+  height: 150px;
+  margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.IMAGE{
+  width: 350px;
+  height: 150px;
+}
+
+
+.Mére{
+  display: flex;
+  flex-direction:row;
+  flex-wrap: nowrap wrap;
+  height: 300px;
+   }
+
+
+  .carte-mére{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+    width: 350px;
+    height:150px;
+    }
+
+    .description.{
+      display: flex;
+      flex-direction:row;
+      flex-wrap: nowrap wrap;
+      height: 150px;
+      margin-right: 10px;
+        margin-bottom: 10px;
+    }
+
+    .IMAGE{
+      width: 350px;
+      height: 150px;
+    }
+
+
+    .carte-graphique{
+      display: flex;
+      flex-direction:row;
+      flex-wrap: nowrap wrap;
+       }
+
+
+      .GPU{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-content: center;
+        flex-wrap: wrap;
+        width: 350px;
+        height:150px;
+        }
+
+        .description,{
+          height: 150px;
+          margin-right: 10px;
+            margin-bottom: 10px;
+        }
+
+        .IMAGE{
+          width: 350px;
+          height: 150px;
+        }
+
+
+.image-footer{
+
+float: right;
+}
+
+footer{
+  border-top: 1px solid #DCDCDC;
+ margin-left:15%;
+ margin-right: 15%;
+ color: #649b88;
+}
+
+.image-f{
+float: right;
+}
+.IMAGE-CPU{
+  width:
+}
+
+.processeur{
+  margin-bottom: 100px;
+}
